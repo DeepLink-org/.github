@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="resources/logo.png" width="600"/>
+  <img src="../resources/logo.png" width="300"/>
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">DeepLink website</font></b>
@@ -24,5 +24,5 @@ DeepLink是一套设备无关的接口体系，作为芯片于深度学习框架
 DeepLink从人工智能芯片-深度学习框架的适配实践中总结出来，在二者之间定义了一套计算契约，良好的函数抽象使得上游芯片和下游框架两层在适配工程实施时能有效地解耦。与此同时，基于这种实践，还可以将芯片的适配工作复用到不同的训练框架适配中去。接口的标准化定义包含算子接口（DIOPI）和编译接口（DICP）两个部分。
 
 <div align="center">
-  <img src="resources/Deeplink01.png" width="600"/>
+  <img src="../resources/Deeplink01.png" width="600"/>
 </div>
