@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/profile/resources/logo.png" width="200"/>
+  <img src="/profile/resources/DeepLink.png" width="400"/>
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">DeepLink website</font></b>
