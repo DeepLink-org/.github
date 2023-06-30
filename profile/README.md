@@ -12,7 +12,7 @@
     <b><font size="5">DeepLink documents</font></b>
     <sup>
       <a href="https://deeplink.readthedocs.io/zh_CN/latest/">
-        <i><font size="4">TRY IT OUT</font></i>
+        <i><font size="4">Tutorial</font></i>
       </a>
     </sup>
   </div>
