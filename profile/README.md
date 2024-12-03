@@ -36,26 +36,26 @@
 为提升软硬件适配效率，充分释放芯片算力，DeepLink定义了一套计算统一接口，可有效解耦框架与芯片的适配过程。同时，我们定期开展硬件测评工作。硬件评测基于团体标准评测方法，以国际主流芯片的性能作为对标，对送测芯片进行技术规格、软件生态、功能、性能等多维度测试，并按季度产出硬件评测报告。评测结论可为各类国产加速卡在不同维度的表现提供参考。
 
 <div align="center">
-  <b><font size="3">DeepLink 2.0</font></b>
+  <b><font size="5">DeepLink 2.0</font></b>
 </div><div align="center">
-    <b><font size="2">训练</font></b>
+    <b><font size="3">训练</font></b>
     <sup>
       <a href="https://deeplink.readthedocs.io/zh-cn/latest/doc/TechSupport/train.html">
-        <i><font size="1.5">ditorch</font></i>
+        <i><font size="2">ditorch</font></i>
       </a>
     </sup>
     &nbsp;&nbsp;|&nbsp;&nbsp;
-    <b><font size="2">推理</font></b>
+    <b><font size="3">推理</font></b>
     <sup>
       <a href="https://deeplink.readthedocs.io/zh-cn/latest/doc/TechSupport/infer.html">
-        <i><font size="1.5">dlinfer</font></i>
+        <i><font size="2">dlinfer</font></i>
       </a>
     </sup>
     &nbsp;&nbsp;|&nbsp;&nbsp;
-    <b><font size="2">编译</font></b>
+    <b><font size="3">编译</font></b>
     <sup>
       <a href="">
-        <i><font size="1.5">triton(待开源)</font></i>
+        <i><font size="2">triton(待开源)</font></i>
       </a>
     </sup>
   </div>
