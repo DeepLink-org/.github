@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://deeplink.readthedocs.io/zh_CN/latest/_static/image/logo.png" width="400"/>
+  <img src="https://deeplink.readthedocs.io/zh_CN/latest/_static/image/logo.png" width="300"/>
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">Website</font></b>
@@ -26,17 +26,8 @@
   <div>&nbsp;</div>
 </div>
 
-人工智能开放计算平台-DeepLink，作为芯片与深度学习框架适配的“桥梁”，根本性实现软硬件解耦，建设开放的软硬件适配生态。遵守此标准可以实现主流框架与芯片高效适配，极大降低算力使用门槛，减少技术阻力。从而打破算力和框架的垄断，实现算力要素多样化。并且通过编译的力量，提升整体的训练效率。基于DeepLink，上下游厂商通过一次适配即可深度接入算法生态，为人工智能软硬上下游合作共建起到关键纽带作用。
-
 <div align="center">
-  <!-- <img src="./resources/DeepLink03.png" width="400"/> -->
-  <img src="https://deeplink.readthedocs.io/zh-cn/latest/_images/DeepLink03.png" width="500"/>
-</div>
-
-为提升软硬件适配效率，充分释放芯片算力，DeepLink定义了一套计算统一接口，可有效解耦框架与芯片的适配过程。同时，我们定期开展硬件测评工作。硬件评测基于团体标准评测方法，以国际主流芯片的性能作为对标，对送测芯片进行技术规格、软件生态、功能、性能等多维度测试，并按季度产出硬件评测报告。评测结论可为各类国产加速卡在不同维度的表现提供参考。
-
-<div align="center">
-  <b><font size="5">DeepLink 2.0</font></b>
+  <b><font size="4">DeepLink 2.0 </font></b>
 </div><div align="center">
     <b><font size="3">训练</font></b>
     <sup>
@@ -59,6 +50,18 @@
       </a>
     </sup>
   </div>
+
+人工智能开放计算平台-DeepLink，作为芯片与深度学习框架适配的“桥梁”，根本性实现软硬件解耦，建设开放的软硬件适配生态。遵守此标准可以实现主流框架与芯片高效适配，极大降低算力使用门槛，减少技术阻力。从而打破算力和框架的垄断，实现算力要素多样化。并且通过编译的力量，提升整体的训练效率。基于DeepLink，上下游厂商通过一次适配即可深度接入算法生态，为人工智能软硬上下游合作共建起到关键纽带作用。
+
+
+<!-- 为提升软硬件适配效率，充分释放芯片算力，DeepLink定义了一套计算统一接口，可有效解耦框架与芯片的适配过程。同时，我们定期开展硬件测评工作。硬件评测基于团体标准评测方法，以国际主流芯片的性能作为对标，对送测芯片进行技术规格、软件生态、功能、性能等多维度测试，并按季度产出硬件评测报告。评测结论可为各类国产加速卡在不同维度的表现提供参考。 -->
+
+
+
+  <div align="center">
+  <!-- <img src="./resources/DeepLink03.png" width="400"/> -->
+  <img src="https://deeplink.readthedocs.io/zh-cn/latest/_images/DeepLink03.png" width="500"/>
+</div>
 DeepLink2.0 从场景支持、互联能力、易用性和性能优化多方着手扩展版图。
 
 1. 支持开源轻量级AI加速框架InternEvo，支持无需大量依赖关系的模型预训练。凭借单一代码库，InternEvo支持在上千GPU的大规模集群上进行预训练，并在单个GPU上进行微调，同时实现显著的性能优化。
