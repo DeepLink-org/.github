@@ -31,8 +31,8 @@
 同时，我们定期开展硬件测评工作。硬件评测基于团体标准评测方法，以国际主流芯片的性能作为对标，对送测芯片进行技术规格、软件生态、功能、性能等多维度测试，并按季度产出硬件评测报告。评测结论可为各类国产加速卡在不同维度的表现提供参考。
 
 <div align="center">
-  <img src="./resources/DeepLink03.png" width="400"/>
-  <!-- <img src="https://deeplink.readthedocs.io/zh-cn/latest/_images/DeepLink03.png" width="400"/> -->
+  <!-- <img src="./resources/DeepLink03.png" width="400"/> -->
+  <img src="https://deeplink.readthedocs.io/zh-cn/latest/_images/DeepLink03.png" width="400"/>
 </div>
 
 <div align="center">
