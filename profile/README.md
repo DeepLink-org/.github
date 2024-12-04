@@ -17,13 +17,13 @@
         <i><font size="4">Tutorial</font></i>
       </a>
     </sup>
-    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <!-- &nbsp;&nbsp;|&nbsp;&nbsp;
     <b><font size="5">Research</font></b>
     <sup>
       <a href="https://deeplink.readthedocs.io/zh_CN/latest/">
         <i><font size="4">HOT</font></i>
       </a>
-    </sup>
+    </sup> -->
   </div>
   <div>&nbsp;</div>
 </div>
@@ -63,11 +63,12 @@
   <img src="https://deeplink.readthedocs.io/zh-cn/latest/_images/DeepLink03.png" width="500"/>
 </div>
 
-**DeepLink2.0** 以1.0版本为基础，并从场景支持、互联能力、易用性和性能优化四个角度着手扩展软硬件适配版图。从原本只涵盖AI技术框架、接口层的版图中，逐步扩展了AI并行框架层和计算层，支持开源轻量级AI加速框架InternEvo，逐步建设triton编译生态，并着力于异构互联方案的建设：
+**DeepLink2.0** 以1.0版本为基础，从场景支持、互联能力、易用性和性能优化四个方向扩展软硬件适配版图。从原本只涵盖AI技术框架、接口层的结构中，逐步扩展了AI并行框架层和计算层：
 
-1. **AI并行框架**：支持无需大量依赖关系的模型预训练。凭借单一代码库，InternEvo支持在上千GPU的大规模集群上进行预训练，并在单个GPU上进行微调，同时实现显著的性能优化。
-2. **计算层**：上下层共同发力构建triton生态，针对硬件特性进行扩展功能加持。
-3. **接口层**：通过跨域异构互联，可实现不同算力性能的芯片自由组合，而无需依赖单一高算力芯片“抱团”
+1. **AI并行框架**：DeepLink2.0支持开源轻量级AI加速框架InternEvo，支持无需大量依赖关系的模型预训练；同时支持微调工具库XTuner、推理部署工具箱LMDeploy。
+<!-- 凭借单一代码库，InternEvo支持在上千GPU的大规模集群上进行预训练，并在单个GPU上进行微调，同时实现显著的性能优化。 -->
+2. **计算层**：逐步建设triton编译生态，针对硬件特性进行扩展功能加持。
+3. **接口层**：着力于异构互联方案的建设，通过跨域异构互联可实现不同算力性能的芯片自由组合，而无需依赖单一高算力芯片“抱团”。
 
 目前，DeepLink已与10余家硬件企业展开合作，在多个计算平台实现了多个模型的训练和推理适配。
 
