@@ -1,5 +1,5 @@
 <div align="center">
-<img src="logo2.0.png" width="300"/>
+<img src="logo2.0.png" width="400"/>
   <!-- <img src="https://deeplink.readthedocs.io/zh_CN/latest/_static/image/logo.png" width="300"/> -->
   <!-- <b><font size=20 color="#033264">DeepLink 2.0</font></b> -->
   <div>&nbsp;</div>
@@ -10,14 +10,14 @@
         <i><font size="4">HOT</font></i>
       </a>
     </sup>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;|&nbsp;&nbsp;
     <b><font size="5">Documents</font></b>
     <sup>
       <a href="https://deeplink.readthedocs.io/zh_CN/latest/">
         <i><font size="4">Tutorial</font></i>
       </a>
     </sup>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;|&nbsp;&nbsp;
     <b><font size="5">Research</font></b>
     <sup>
       <a href="https://deeplink.readthedocs.io/zh_CN/latest/">
@@ -25,7 +25,7 @@
       </a>
     </sup>
   </div>
-  <!-- <div>&nbsp;</div> -->
+  <div>&nbsp;</div>
 </div>
 
 <!-- <div align="center">
