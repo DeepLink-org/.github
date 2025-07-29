@@ -48,8 +48,8 @@
     &nbsp;&nbsp;|&nbsp;&nbsp;
     <b><font size="3">编译</font></b>
     <sup>
-      <a href="">
-        <i><font size="2">triton(待开源)</font></i>
+      <a href="https://deeplink.readthedocs.io/zh-cn/latest/doc/TechSupport/triton.html#dlblas">
+        <i><font size="2">dlBLAS</font></i>
       </a>
     </sup>
   </div>
