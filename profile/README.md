@@ -48,8 +48,8 @@
     &nbsp;&nbsp;|&nbsp;&nbsp;
     <b><font size="3">编译</font></b>
     <sup>
-      <a href="https://deeplink.readthedocs.io/zh-cn/latest/doc/TechSupport/triton.html#dlblas">
-        <i><font size="2">dlBLAS</font></i>
+      <a href="https://deeplink.readthedocs.io/zh-cn/latest/doc/TechSupport/triton.html#dlcompiler">
+        <i><font size="2">dlcompiler</font></i>
       </a>
     </sup>
   </div>
