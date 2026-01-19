@@ -66,10 +66,7 @@
 
 <!-- 为提升软硬件适配效率，充分释放芯片算力，DeepLink定义了一套计算统一接口，可有效解耦框架与芯片的适配过程。同时，我们定期开展硬件测评工作。硬件评测基于团体标准评测方法，以国际主流芯片的性能作为对标，对送测芯片进行技术规格、软件生态、功能、性能等多维度测试，并按季度产出硬件评测报告。评测结论可为各类国产加速卡在不同维度的表现提供参考。 -->
 
-<div align="center">
-    <img src="framework.png" width="500"/>
-</div>
--------------
+
 <div align="center">
     <img src="framework02.png" width="500"/>
 </div>
@@ -106,6 +103,7 @@
 * [Persisting](https://github.com/DeepLink-org/Persisting)：参数、键值缓存和轨迹的持久存储。
 
 **混训混推**
+* 支持异构/跨域混训、异构推理等的相关方案，尽请期待.
 
 ## 智算平台
 * [Deeptrace](https://github.com/DeepLink-org/DeepTrace/tree/main)：一种分布式训练中任务排查、诊断的实现方案。
@@ -113,12 +111,15 @@
 
 **训推性能建模与通信建模**
 
+* 此方向将服务下一代模型与下一代算力建设，尽请期待。
+
 ## 前沿技术
 
 **量子计算**
 * [OpenTenNet](https://github.com/DeepLink-org/OpenTenNet)：在新兴算力硬件上构建的量子计算模拟器。
 
 **超节点**
+* 面向极致算力增长需求构建的国产超节点技术系统，尽请期待。
 
 ## 硬件评测
 * [AIChipBenchmark](https://github.com/DeepLink-org/AIChipBenchmark)：面向国产深度学习加速卡进行的多维度评测工作.
