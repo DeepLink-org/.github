@@ -1,5 +1,5 @@
 <div align="center">
-<img src="DeepLink_text_nobg.png" width="500"/>
+<img src="DeepLink_text_nobg.png" width="400"/>
   <div align="center">
     <b><font size="5">Website</font></b>
     <sup>
@@ -68,7 +68,7 @@
 
 
 <div align="center">
-    <img src="framework02.png" width="500"/>
+    <img src="framework02.png" width="600"/>
 </div>
 
 <!-- <img src="https://deeplink.readthedocs.io/zh-cn/latest/_images/DeepLink03.png" width="500"/>  -->
