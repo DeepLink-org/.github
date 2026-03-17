@@ -96,6 +96,7 @@
 **物理智能**
 
 * [3DGSTensorCore](https://github.com/DeepLink-org/3DGSTensorCore)：3DGS渲染的加速模块，可以即插即用至常用的3DGS加速框架上。
+* [RLightning](https://github.com/DeepLink-org/RLightning)：统一原型开发与规模扩展的具身智能强化学习框架。
 
 ## 训推系统
 * [LightRFT](https://github.com/DeepLink-org/LightRFT)：一个先进的多模态强化学习微调框架，专为大语言模型（LLM）和视觉语言模型（VLM）设计。
@@ -103,7 +104,7 @@
 * [Persisting](https://github.com/DeepLink-org/Persisting)：参数、键值缓存和轨迹的持久存储。
 
 **混训混推**
-* 支持异构/跨域混训、异构推理等的相关方案，尽请期待.
+* 支持异构/跨域混训、异构推理等的相关方案，敬请期待.
 
 ## 智算平台
 * [Deeptrace](https://github.com/DeepLink-org/DeepTrace/tree/main)：一种分布式训练中任务排查、诊断的实现方案。
@@ -111,7 +112,7 @@
 
 **训推性能建模与通信建模**
 
-* 服务下一代模型与下一代算力建设的方案&工具，尽请期待。
+* 服务下一代模型与下一代算力建设的方案&工具，敬请期待。
 
 ## 前沿技术
 
@@ -119,7 +120,7 @@
 * [OpenTenNet](https://github.com/DeepLink-org/OpenTenNet)：在新兴算力硬件上构建的量子计算模拟器。
 
 **超节点**
-* 面向极致算力增长需求构建的国产超节点技术系统，尽请期待。
+* 面向极致算力增长需求构建的国产超节点技术系统，敬请期待。
 
 ## 硬件评测
 * [AIChipBenchmark](https://github.com/DeepLink-org/AIChipBenchmark)：面向国产深度学习加速卡进行的多维度评测工作.
