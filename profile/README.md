@@ -105,7 +105,7 @@
 * [Persisting](https://github.com/DeepLink-org/Persisting)：参数、键值缓存和轨迹的持久存储。
 
 **混训混推**
-* [混推方案](https://github.com/DeepLink-org/DLRouter/blob/main/docs/Infer_readme.md)：面向多元国产芯片的全域异构推理解决方案.
+* [混推方案](https://github.com/DeepLink-org/DLRouter/blob/main/docs/infer_readme.md)：面向多元国产芯片的全域异构推理解决方案.
 * 支持异构/跨域混训等的相关方案，敬请期待.
 
 ## 智算平台
