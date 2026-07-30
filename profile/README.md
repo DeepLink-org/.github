@@ -92,7 +92,7 @@
 * [DLBlas](https://github.com/DeepLink-org/DLBlas)：一个基于 Triton 的运算符库。
 * [DLSlime](https://github.com/DeepLink-org/DLSlime)：面向 AI 服务的可组合、可嵌入通信运行时。
 * [DLinfer](https://github.com/DeepLink-org/dlinfer)：一套将国产硬件接入大模型推理框架的解决方案。
-* [NanoDeploy](https://github.com/DeepLink-org/NanoDeploy)：专注分离式架构与高性能专家并行的高可用智能体推理服务框架。
+* [DLEngine](https://github.com/DeepLink-org/DLEngine)：专注分离式架构与高性能专家并行的高可用智能体推理服务框架。
 
 **物理智能**
 
